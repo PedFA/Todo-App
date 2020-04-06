@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Psql</string>
+    <string name="Update_failed">Update Failed</string>
+</resources>
